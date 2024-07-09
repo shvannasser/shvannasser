@@ -1,9 +1,9 @@
-<h1 align="center">Hello, I'm Shvan Nasser 👋</h1>
-<p align="center">I am a Information Systems graduate specializing in Software Engineering & Testing at Østfold University College🎓. 
+<h1 align="center">Hello 👋🏽, I'm Shvan Nasser </h1>
+<p align="center">I am a Information Systems graduate specializing in Software Engineering & Testing at Østfold University College 🎓. 
  </p>
 <p align="center">My passion is in creating useful and user-friendly applications, guided by the principle of "Simplicity over complexity". I am enthusiastic about facing new challenges, committed to continual learning, and eager to contribute to the creation of meaningful digital experiences for users 🚀. 
  </p>
- <p align="center"> My hobbies are:⛰️🏓🏐🏋🏽‍♂️🏃👨‍💻</p>
+
 
 <br>
 
