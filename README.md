@@ -14,7 +14,7 @@
 - 👨‍💻 Check out my projects at [https://shvansportfolio.vercel.app/](https://shvansportfolio.vercel.app/)
 - 📫 You can reach me at **shvan.nasser@gmail.com**
 
-<h3 align="left">Lets connect!</h3>
+<h3 align="left">Let's connect!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shvannasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shvannasser" height="30" width="40" /></a>
 </p>
