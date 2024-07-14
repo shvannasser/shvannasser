@@ -1,8 +1,7 @@
 
 <div align="center">
-<h1>Hello, World! 👋🏽</h1>  
+<h1>Hello, I'm Shvan Nasser 👋🏽</h1>  
 
-<h3> I'm Shvan Nasser</h3>
 <p>I am a Information Systems graduate specializing in Software Engineering & Testing at Østfold University College 🎓. 
  </p>
 <p>
