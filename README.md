@@ -2,9 +2,9 @@
 <div align="center">
 <h1>Hello, I'm Shvan Nasser 👋🏽</h1>  
 
-<p>I am a Information Systems graduate specializing in Software Engineering & Testing at Østfold University College 🎓. 
+<p  align="start">I am a Information Systems graduate specializing in Software Engineering & Testing at Østfold University College 🎓. 
  </p>
-<p>
+<p align="start">
  My passion is in creating useful and user-friendly applications, guided by the principle of "Simplicity over complexity". I am enthusiastic about facing new challenges, committed to continual learning, and eager to contribute to the creation of meaningful digital experiences for users 🚀. 
  </p>
 
@@ -12,7 +12,7 @@
 <br>
 
 ## My Portfolio
-Feel free to check out my portfolio. You can find it at https://shvansportfolio.vercel.app/. 
+<p align="start"> Feel free to check out my portfolio. You can find it at https://shvansportfolio.vercel.app/. </p>
 
 
 
